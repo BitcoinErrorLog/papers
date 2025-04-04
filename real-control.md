@@ -1,7 +1,6 @@
 # Real Control: Ownership as the Power to Destroy Without Consequence
 
-**John Carvalho**  
-*Synonym / The Atomic Economy Project*
+**by John Carvalho**  
 
 ---
 
