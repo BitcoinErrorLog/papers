@@ -81,6 +81,9 @@ Jeremy Bentham famously declared: “Property and law are born together and die 
 
 Pierre-Joseph Proudhon’s claim that "Property is theft" reflects discomfort with unchecked control. He distinguishes between *possession* (based on use) and *property* (based on exclusion). Real control aligns more with possession, revealing the political nature of ownership.
 
+### 4.5 Popescu (Bitcoin-Assets IRC, circa 2013–2016)
+Bitcoin pioneer Mircea Popescu is believed to have expressed a version of this principle—ownership as the ability to destroy—in early Bitcoin IRC discussions. While not formalized in academic terms, his framing emphasized that control without recourse was the only meaningful expression of property. Though controversial in many respects, this insight foreshadowed the practical realities of ownership in cryptographic systems, where possession and unilateral authority define legitimacy.
+
 ---
 
 ## 5. Limitations and Counterpoints
@@ -125,4 +128,4 @@ When the system fails, when the law breaks down, when enforcement disappears—w
 - Antonopoulos, A. *Mastering Bitcoin*.
 - Strahilevitz, L. (2005). “The Right to Destroy.” *Yale Law Journal*, 114(4), 781–854.
 - Bitcoin community ethos: “Not your keys, not your coins.”
-
+- Popescu, Mircea. Informal discussions on Bitcoin-Assets IRC (circa 2013–2016), available via public logs and community archives
