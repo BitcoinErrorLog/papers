@@ -1,5 +1,18 @@
 # Money as the Most Demanded Product in a Free Market
 
+## The AI TLDR of this document:
+
+- Money isn’t made by governments or magic—it’s just the most popular thing people want to trade for.
+- Over time, people figure out what item is easiest to swap, and that thing becomes money.
+- Gold became money not because it was shiny, but because it was useful and everyone accepted it.
+- Mises said money has to start as something useful before it can be used just for trading.
+- Hayek and Selgin showed that if we let different types of money compete, the best one wins—no central bank needed.
+- Graeber argued money started with social credit (IOUs), but even then, tokens only mattered if people trusted them.
+- Szabo explained that even cavemen liked rare, hard-to-copy collectibles—those were baby money.
+- Voskuil says money has no “essence”—if people use it to trade, it’s money; if they don’t, it’s just hype.
+- Bitcoin fans often say it’s a “store of value” or “digital gold,” but that only matters if people actually use it.
+- So if Bitcoin wants to be real money, it needs less memes and more real-world use—because markets don’t care about slogans.
+
 ## Introduction  
 Money is often treated as an abstract construct defined by law or authority, but an alternative view rooted in classical and Austrian economics argues that money emerges organically as a market-driven product. In this view, any good that becomes widely demanded and accepted in trade can evolve into money, without requiring top-down decree. This paper explores the idea of money as *the most saleable good* – a commodity prized not for its direct use, but for its superior exchangeability – and examines how this perspective aligns with and challenges various theories of money’s origin and nature. We draw on insights from Carl Menger’s seminal theory of the spontaneous origin of money, Ludwig von Mises’s regression theorem on commodity-based value, F. A. Hayek’s advocacy of currency competition, and George Selgin’s research on free banking. 
 
