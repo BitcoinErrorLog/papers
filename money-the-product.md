@@ -11,39 +11,35 @@ This paper explores the idea of money as the most saleable good—a commodity pr
 
 ### Carl Menger: Money as the Most Saleable Good
 
-Carl Menger, in "On the Origin of Money" (1892), proposed that money arises not from legislation but from the natural evolution of trade. As individuals seek to optimize their ability to trade, they gravitate toward goods that are more "saleable"—that is, easier to exchange.
+Carl Menger, in *On the Origin of Money* (1892), proposed that money arises not from legislation but from the natural evolution of trade [1]. As individuals seek to optimize their ability to trade, they gravitate toward goods that are more "saleable"—that is, easier to exchange.
 
 Over time, some goods become widely accepted as intermediaries not because of any state edict but because everyone finds them convenient. These goods, by their superior liquidity, organically become money.
 
 ### Ludwig von Mises: Regression Theorem
 
-Mises added to Menger’s insights by addressing a puzzle: how a new money gains value in the first place. His regression theorem, presented in The Theory of Money and Credit (1912), posits that people can only value a medium of exchange if they have some reference point for its purchasing power in the past.
+Mises added to Menger’s insights by addressing a puzzle: how a new money gains value in the first place. His *Regression Theorem*, presented in *The Theory of Money and Credit* (1912), posits that people can only value a medium of exchange if they have some reference point for its purchasing power in the past [2].
 
-This seems circular – money has value because we expect others to accept it, and they accept it because they expect yet others to value it – so Mises “breaks” the apparent circularity by regressing to a time when the item was not used as money. At that earliest point, the good’s value was determined solely by its non-monetary uses.
+This seems circular – money has value because we expect others to accept it, and they accept it because they expect yet others to value it – so Mises “breaks” the apparent circularity by regressing to a time when the item was not used as money.
 
 ### F.A. Hayek and George Selgin: Currency Competition and Free Banking
 
-Friedrich A. Hayek, in The Denationalisation of Money (1976), advocated allowing private, competing currencies. He argued that money is no different from other commodities and would be better supplied by competition than by state monopoly. In a system of competitive currency issuance, banks or other institutions would issue their own money, and users would be free to choose among them.
+Friedrich A. Hayek, in *The Denationalisation of Money* (1976), advocated allowing private, competing currencies [3]. He argued that money is no different from other commodities and would be better supplied by competition than by state monopoly.
 
-George Selgin, a monetary economist, extends this with historical research showing that unregulated, decentralized currency systems often worked well. Free banking theory reinforces the concept that money is a commodity of trade that should be subject to innovation and competition.
+George Selgin, a monetary economist, extends this with historical research showing that unregulated, decentralized currency systems often worked well [4]. Free banking theory reinforces the concept that money is a commodity of trade that should be subject to innovation and competition.
 
 ### David Graeber: Debt and Social Money
 
-In Debt: The First 5,000 Years, anthropologist David Graeber argues that credit systems preceded monetary barter. He presents evidence from traditional societies showing that exchange was often governed by social credit, and tokens came later.
+In *Debt: The First 5,000 Years*, anthropologist David Graeber argues that credit systems preceded monetary barter [5]. He presents evidence from traditional societies showing that exchange was often governed by social credit, and tokens came later.
 
-Even in Graeber’s account, once money is introduced, its value depends on demand. While political structures may shape adoption, market-driven trust ultimately determines longevity.
+Even in Graeber’s account, once money is introduced, its value depends on demand.
 
 ### Nick Szabo: Collectibles as Proto-Money
 
-Szabo’s Shelling Out describes how humans evolved to use collectibles as early money, emphasizing their desirable properties—durability, portability, scarcity—that made them useful as early stores of value and media of exchange.
-
-Szabo aligns with Menger: money is adopted because it works, and because people find it useful in trade.
+Szabo’s *Shelling Out: The Origins of Money* describes how humans evolved to use collectibles as early money [6]. These collectibles had desirable properties—durability, portability, scarcity—that made them useful as early stores of value and media of exchange.
 
 ### Eric Voskuil: Function Over Form
 
-Voskuil’s Cryptoeconomics emphasizes that money is not defined by essence, but by use. He critiques essentialist narratives like “store of value,” asserting that money only stores purchasing power if people accept it in trade.
-
-From this perspective, Bitcoin is not money because it has scarcity or ideology, but only to the extent that people use it in exchange.
+Voskuil’s *Cryptoeconomics* emphasizes that money is not defined by essence, but by use [7]. He critiques essentialist narratives like “store of value,” asserting that money only stores purchasing power if people accept it in trade.
 
 ## Bitcoin Culture: A Reality Check
 
@@ -64,3 +60,15 @@ Gold had practical demand long before it became money. Bitcoin lacks non-monetar
 Money is what people use—not what people declare. It’s the most demanded product, not the most ideologically pure. Whether shells, salt, gold, or Bitcoin, market behavior decides what holds value in exchange.
 
 Bitcoin may become money. But it isn’t there yet. For it to get there, it needs to become more than a slogan or a speculative asset. It needs to be used. Because in the real world, money is earned—one trade at a time.
+
+---
+
+## References
+
+[1] Carl Menger. *On the Origin of Money* (1892).  
+[2] Ludwig von Mises. *The Theory of Money and Credit* (1912).  
+[3] Friedrich A. Hayek. *The Denationalisation of Money* (1976).  
+[4] George Selgin. *The Theory of Free Banking* (1988).  
+[5] David Graeber. *Debt: The First 5,000 Years* (2011).  
+[6] Nick Szabo. *Shelling Out: The Origins of Money*. https://nakamotoinstitute.org/shelling-out/  
+[7] Eric Voskuil. *Cryptoeconomics*. https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics
