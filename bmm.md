@@ -43,8 +43,8 @@ Eric didn’t write a beach read; he wrote a dense constellation of essays. Each
 
 ### Who this is for
 
+* **Educators** – Curriculum builders at any program or any university course brave enough for honest monetary theory.  
 * **Bitcoin podcasters & their audiences** – People who already *care*, but want tighter arguments than “number go up.”  
-* **Educators** – Curriculum builders at Plan B, KUDOS, or any university econ course brave enough for honest monetary theory.  
 * **Builders & policy wonks** – Engineers, lawyers, and regulators who need a rigorous map before they redraw the territory.
 
 ### How to read it
