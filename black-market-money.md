@@ -116,15 +116,15 @@ Any attempt to “whitelist” Bitcoin violates the [**Axiom of Resistance**](
 
 ## References
 
-| Anchor | Source | URL |
-|---|---|---|
-| ^voskuil | Voskuil, Eric. *Cryptoeconomics: Fundamental Principles of Bitcoin* (2020). | — (PDF) |
-| ^seigniorage | “Seigniorage.” Wikipedia. | https://en.wikipedia.org/wiki/Seigniorage |
-| ^sovereignty | “Sovereignty.” Wikipedia. | https://en.wikipedia.org/wiki/Sovereignty |
-| ^reserve | “Reserve currency.” Wikipedia. | https://en.wikipedia.org/wiki/Reserve_currency |
-| ^eo6102 | Executive Order 6102 (US gold seizure). | https://en.wikipedia.org/wiki/Executive_Order_6102 |
-| ^imf | International Monetary Fund. | https://www.imf.org |
-| ^fedwire | “Fedwire.” Wikipedia. | https://en.wikipedia.org/wiki/Fedwire |
+| Source | URL |
+|---|---|
+| ^Voskuil, Eric. *Cryptoeconomics: Fundamental Principles of Bitcoin* (2020). | — (PDF) |
+| “Seigniorage.” Wikipedia. | https://en.wikipedia.org/wiki/Seigniorage |
+| “Sovereignty.” Wikipedia. | https://en.wikipedia.org/wiki/Sovereignty |
+| “Reserve currency.” Wikipedia. | https://en.wikipedia.org/wiki/Reserve_currency |
+| Executive Order 6102 (US gold seizure). | https://en.wikipedia.org/wiki/Executive_Order_6102 |
+| International Monetary Fund. | https://www.imf.org |
+| “Fedwire.” Wikipedia. | https://en.wikipedia.org/wiki/Fedwire |
 
 # Part I – Foundations
 
