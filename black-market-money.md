@@ -1,7 +1,5 @@
 # Black Market Money – *A Pedagogical Rewrite of Voskuil’s “Cryptoeconomics”*
 
-[TOC]
-
 ---
 
 ### Table of Contents
