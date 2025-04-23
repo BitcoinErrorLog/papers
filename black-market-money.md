@@ -28,7 +28,7 @@
 
 ## Author’s Introduction <a name="intro"></a>
 
-I’ve spent the last decade building, breaking, and defending Bitcoin tools—first as a curious node-runner, later as CEO of Synonym, and always as that loud guy on Twitter poking holes in half-baked narratives. In that time one book has stood apart as a genuine attempt to model *how* Bitcoin actually works, economically and technically: **Eric Voskuil’s *Cryptoeconomics*** [^voskuil].
+I’ve spent the last decade building, breaking, and defending Bitcoin tools—first as a curious node-runner, later as CEO of Synonym, and always as that loud guy on Twitter poking holes in half-baked narratives. In that time one book has stood apart as a genuine attempt to model *how* Bitcoin actually works, economically and technically: **Eric Voskuil’s *Cryptoeconomics*** .
 
 Eric didn’t write a beach read; he wrote a dense constellation of essays. Each gem is rigorous, but newcomers often bounce off the asteroid field long before they reach the core. This project—**Black Market Money**—is my effort to turn those scattered insights into a single navigable map.
 
@@ -67,7 +67,7 @@ Lisbon, 2025
 
 ## Chapter 1 — The Monetary Dilemma: State Money vs Black‑Market Money
 
-> “The value of Bitcoin over its alternatives derives directly from removing the state from control over both monetary supply and transaction censorship.” — Voskuil[^voskuil]
+> “The value of Bitcoin over its alternatives derives directly from removing the state from control over both monetary supply and transaction censorship.” — Voskuil
 
 ### 1 · Why Money Becomes a State Target
 
@@ -138,7 +138,7 @@ Because the name *Bitcoin* originally described those principles—not a ticker 
 
 ---
 
-### 2.2  The three “cryptodynamic” forces [^voskuil]
+### 2.2  The three “cryptodynamic” forces 
 
 | Force | Function | Take‑away |
 |-------|----------|-----------|
@@ -211,7 +211,7 @@ With that foundation we’re ready to explore why scarcity alone doesn’t guara
 ### 3.1  Absolute scarcity ≠ automatic value
 
 Bitcoin’s 21 million cap is often touted as the reason it “must” appreciate.  
-Yet scarcity is only **half** a price equation. Voskuil’s **Scarcity Fallacy** [^scarcity] notes there is only one *Mona Lisa*, yet countless equally scarce paintings fetch no bid.  
+Yet scarcity is only **half** a price equation. Voskuil’s **Scarcity Fallacy** notes there is only one *Mona Lisa*, yet countless equally scarce paintings fetch no bid.  
 A good becomes *property*—and therefore valuable—only when **demand** meets limited supply.
 
 ### 3.2  The Inflation Principle — why supply alone doesn’t move purchasing power
@@ -241,7 +241,7 @@ Bitcoin substitutes **fee pressure** for the physical mining brake of gold.
 ### 3.4  Meme-busting
 
 * **“21 million guarantees price.”** Scarcity without demand is worthless; value flows from Bitcoin’s utility as [**black-market money**](#glossary).  
-* **“Stock-to-flow proves number go up.”** Flow reacts *to* expected price; using the ratio as a driver flips cause and effect [^stf].  
+* **“Stock-to-flow proves number go up.”** Flow reacts *to* expected price; using the ratio as a driver flips cause and effect.  
 * **“Any issuance debases holders.”** Early Bitcoin inflation did *not* debase owners: miners expended real capital equal to coins earned.
 
 ### 3.5  Lessons for educators & investors
@@ -280,7 +280,7 @@ Bitcoin substitutes **fee pressure** for the physical mining brake of gold.
 Traditional finance defends funds by **concentrating** them—banks, vaults, payment processors.  
 That buys convenience but also creates *single points of failure*: compromise the vault and you capture everything.
 
-Bitcoin **inverts** the strategy. Voskuil’s **Risk-Sharing Principle** [^risksharing]:
+Bitcoin **inverts** the strategy. Voskuil’s **Risk-Sharing Principle**:
 
 > “Bitcoin is secure only while many independent individuals are willing **and able** to accept its risks and shoulder its defence.”
 
@@ -300,7 +300,7 @@ No single layer suffices; together they form a mesh where the cheapest attack on
 ### 4.3  Permissionlessness enables risk-sharing
 
 If a cartel could decide *who* may run a node or mine, the mesh collapses.  
-Hence Bitcoin’s rules embed the **Permissionless Principle** [^permissionless]: validation and mining are open by design.
+Hence Bitcoin’s rules embed the **Permissionless Principle**: validation and mining are open by design.
 
 Two norms make that work:
 
@@ -309,7 +309,7 @@ Two norms make that work:
 
 ### 4.4  Centralisation pressures, and Bitcoin’s counter-moves
 
-Voskuil flags two economic tugs [^centralrisk]:
+Voskuil flags two economic tugs:
 
 * **Difficulty-of-use discount** → coins parked on exchanges.  
 * **On-chain fee discount** → businesses batch internally instead of on-chain.
@@ -375,7 +375,7 @@ This “burn test” cuts through every custody promise, staking pool, or side-c
 In *Cryptoeconomics* Voskuil writes: a claim (bank IOU, token) is only as good as the custodian’s future honesty. Markets discount the claim by:
 
 * **Exchange cost** – withdrawal fees & friction.  
-* **Enforcement cost** – legal time, political risk.  [^custody]
+* **Enforcement cost** – legal time, political risk.
 
 Bitcoin sidesteps that discount by making the **owner** the custodian: hold the keys, hold the coins. Any re-intermediation simply re-creates the risk Bitcoin deletes.
 
@@ -435,7 +435,7 @@ Tokenised gold, stable-coins, or exchange balances all flunk the burn test:
 
 ### 6.1  Why a “perfectly non-scalable” ledger must charge rent
 
-Voskuil’s **Scalability Principle** states that *no amount of hardware can raise Bitcoin’s on-chain throughput*; bigger blocks only trade decentralisation for marginal capacity [^scalability].  
+Voskuil’s **Scalability Principle** states that *no amount of hardware can raise Bitcoin’s on-chain throughput*; bigger blocks only trade decentralisation for marginal capacity.  
 Every ten minutes the network must choose a **finite** set of transactions. That scarce commodity—block-space—is rationed by an auction. **Fees are its price.**
 
 ### 6.2  Birth and mechanics of the fee market
@@ -449,7 +449,7 @@ Fees simultaneously:
 2. **Fund security.** Higher demand → higher fees → more hash-power.  
 3. **Signal congestion.** Rising curve tells wallets to batch, route via Lightning, or delay.
 
-### 6.3  The Utility Threshold Property—Bitcoin’s automatic toll-gate [^utility]
+### 6.3  The Utility Threshold Property—Bitcoin’s automatic toll-gate
 
 > “As fees rise, low-value uses migrate to substitutes; utility sets its own threshold.”
 
@@ -465,7 +465,7 @@ Instead of collapsing, the network **pushes** marginal traffic to cheaper rails 
 ### 6.4  Stability through price, not supply
 
 Gold dampens volatility by expanding supply; fiat hides it via stealth inflation.  
-Bitcoin, with fixed supply, can only damp **through price**: fees rise until excess demand backs off. This is Voskuil’s **Stability Property** [^stability].
+Bitcoin, with fixed supply, can only damp **through price**: fees rise until excess demand backs off. This is Voskuil’s **Stability Property**.
 
 ### 6.5  Meme-busting
 
@@ -515,7 +515,7 @@ Chapter 7 weighs Voskuil’s **Consolidation Principle** against real-world subs
 
 ### 7.1 Economic gravity toward a single coin
 
-Voskuil’s **Consolidation Principle** [^consolidation]:
+Voskuil’s **Consolidation Principle**:
 
 > “One coin is always ‘better’—higher utility—than two, so long as the resulting coin itself doesn’t price users out through on-chain fees.”
 
@@ -525,7 +525,7 @@ Bitcoin’s censorship-resistant settlement gives it a quality edge over alt-coi
 
 ### 7.2 The counter-force: Substitution
 
-Bitcoin’s own fee market creates the opposing **Substitution Principle** [^substitution]:
+Bitcoin’s own fee market creates the opposing **Substitution Principle**:
 
 > “When on-chain fees exceed a user’s utility, they migrate to cheaper substitutes; effective money supply expands through migration, not issuance.”
 
@@ -544,7 +544,7 @@ At high demand, block-space scarcity triggers substitution.
 ### 7.4 Forks and the Network-Effect Fallacy
 
 Maximalists sometimes claim any fork “halves network value” (Metcalfe’s Law).  
-Voskuil’s **Network-Effect Fallacy** [^nefallacy] notes: once exchanges exist, two forks form a hybrid economy; utility loss equals conversion cost, **not** network-size squared.  
+Voskuil’s **Network-Effect Fallacy** notes: once exchanges exist, two forks form a hybrid economy; utility loss equals conversion cost, **not** network-size squared.  
 In practice, most economic weight sticks to the chain with superior security and depth—consolidation again.
 
 ### 7.5 Empirical clues (2017-2024)
@@ -597,7 +597,7 @@ Chapter 8 pits Voskuil’s *many-Bitcoins* forecast against Carvalho’s **sweet
 
 ### 8.1 Why scaling is **not** “just add hardware”
 
-Voskuil’s **Scalability Principle** [^scalability]:
+Voskuil’s **Scalability Principle**:
 
 > “Bitcoin transaction throughput is perfectly non-scalable; no amount of hardware raises it.”
 
@@ -613,7 +613,7 @@ Every “scale-up” proposal is thus a *trade-off* between capacity and securit
 
 Since the base layer cannot grow safely, Voskuil predicts **Substitution** (Chapter 7) will mature into outright **multiplication**:
 
-> Many independent chains replicating the Bitcoin design pattern will service lower-value tiers.  Creating such a chain is virtually free; users migrate when main-chain fees exceed their tolerance. [^substitution]
+> Many independent chains replicating the Bitcoin design pattern will service lower-value tiers.  Creating such a chain is virtually free; users migrate when main-chain fees exceed their tolerance.
 
 Outcome: a constellation of “Bitcoins,” each with lighter rules, smaller fees, and its own security budget.
 
