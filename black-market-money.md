@@ -72,11 +72,11 @@ Lisbon, 2025
 ### 1 · Why Money Becomes a State Target
 
 1. **Seigniorage — the silent tax**  
-   A central bank can create new units at near‑zero cost and acquire real resources; that margin is [**seigniorage**](#glossary "Profit a money issuer earns by creating new units below market value; eliminated in Bitcoin by the fixed cap.") [^seigniorage].  
+   A central bank can create new units at near‑zero cost and acquire real resources; that margin is [**seigniorage**](#glossary "Profit a money issuer earns by creating new units below market value; eliminated in Bitcoin by the fixed cap.").  
 2. **Censorship & surveillance**  
-   Monopoly payment rails let the state freeze or reverse transfers and mine personal data for taxation or social control [^sovereignty].  
+   Monopoly payment rails let the state freeze or reverse transfers and mine personal data for taxation or social control.  
 3. **Reserve‑currency politics**  
-   States hoard “hard” assets while issuing softer domestic notes, maximising hidden‑inflation latitude [^reserve].
+   States hoard “hard” assets while issuing softer domestic notes, maximising hidden‑inflation latitude.
 
 These incentives make any currency that resists dilution and censorship an existential threat to the modern fiscal state.
 
@@ -84,9 +84,9 @@ These incentives make any currency that resists dilution and censorship an exist
 
 | Era | Technique | Outcome |
 |-----|-----------|---------|
-| Classical gold standard | Redeemable notes 100 % backed by gold | Crises suspend redemption → fiat takeover [^eo6102] |
-| Fiat & central banking | Unlimited note issue & lender‑of‑last‑resort credit | Structural inflation and system‑wide surveillance [^imf] |
-| “Fedcoin” / CBDC | State‑branded crypto with whitelist & inflation lever | Seigniorage preserved under digital veneer [^fedwire] |
+| Classical gold standard | Redeemable notes 100 % backed by gold | Crises suspend redemption → fiat takeover |
+| Fiat & central banking | Unlimited note issue & lender‑of‑last‑resort credit | Structural inflation and system‑wide surveillance |
+| “Fedcoin” / CBDC | State‑branded crypto with whitelist & inflation lever | Seigniorage preserved under digital veneer |
 
 Every reform ultimately re‑secures the same two powers: to **inflate** and to **approve or deny** transfers.
 
@@ -132,7 +132,7 @@ Any attempt to “whitelist” Bitcoin violates the [**Axiom of Resistance**](
 
 ### 2.1  Working definition
 
-**Bitcoin is the set of principles that let any group of people define, issue, and transfer a fixed‑supply digital money without asking permission from a third party.** [^voskuil]
+**Bitcoin is the set of principles that let any group of people define, issue, and transfer a fixed‑supply digital money without asking permission from a third party.** 
 
 Because the name *Bitcoin* originally described those principles—not a ticker or trademark—any system that preserves them is “Bitcoin‑like,” while anything that drops a principle is not.
 
@@ -216,7 +216,7 @@ A good becomes *property*—and therefore valuable—only when **demand** meets 
 
 ### 3.2  The Inflation Principle — why supply alone doesn’t move purchasing power
 
-Voskuil’s **Inflation Principle** [^inflationprinciple] formalises it:
+Voskuil’s **Inflation Principle** formalises it:
 
 > “Purchasing power varies with both the goods a money chases **and** the units in circulation.”
 
