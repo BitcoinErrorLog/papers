@@ -1,27 +1,26 @@
 # **Black Market Money** – *A Pedagogical Rewrite of Voskuil’s “Cryptoeconomics”*
 
-## Author’s Introduction  
+### Table of Contents — *Black Market Money*  
 
-## **Part I: Bitcoin’s Rationale and Definition**  
-- **Chapter 1: The Monetary Dilemma – State Money vs. Black Market Money** – Introduces the core problem Bitcoin addresses. Using Voskuil’s critique of “statism” and the **Reservation Principle**, this chapter explains how state-controlled money leads to inflation, censorship, and loss of value. It recounts how historically states co-opted sound money (e.g. gold) with paper, and why a purely state-resistant currency is needed. Voskuil’s scenario of the state issuing Bitcoin-backed notes is reinterpreted in an accessible narrative, highlighting that *only a true black-market usage of Bitcoin (outside state control) preserves its integrity*. This sets the stage for Bitcoin as “black market money” – a currency that thrives outside the reach of government, solving the monetary dilemma through decentralization rather than trust in authorities. (Relates to Voskuil’s *Statism* chapter and reserve currency fallacy, reframing it for general readers and foreshadowing Bitcoin’s anti-state ethos.)
+| Part / Chapter | Title | One-Sentence Summary |
+|---|---|---|
+| **Author’s Introduction** | *Why This Rewrite?* – John Carvalho | Explains the aim of turning Voskuil’s dense essays into a stepped learning path and adds Carvalho’s own lenses of **real control** and layer-centric scaling. |
+| **Part I – Foundations** |
+| 1 | **The Monetary Dilemma: State Money vs Black-Market Money** | Shows how seigniorage and censorship make state currencies adversarial, motivating Bitcoin’s permissionless design. |
+| 2 | **What Is Bitcoin? A Money Secured by Principles** | Defines Bitcoin through risk-sharing, energy sinking, and permissionlessness—distinguishing it from “blockchain tech.” |
+| 3 | **Scarcity & Value – Re-examining the Inflation Principle** | Debunks “21 million guarantees price” and links purchasing power to demand and fee-driven stability. |
+| 4 | **Security Without Trust – Decentralisation & the Risk-Sharing Principle** | Details how full nodes, miners, and self-custody distribute attack surface and keep the system sovereign. |
+| 5 | **Real Control – Why Self-Custody Defines Ownership** | Introduces Carvalho’s burn-test criterion for true ownership and warns against custodial regressions. |
+| **Part II – Dynamics of the Bitcoin Economy** |
+| 6 | **The Fee-Market Flywheel – From Utility Threshold to Stability** | Explains why block-space auctions fund security, cap low-value spam, and stabilise demand. |
+| 7 | **One Money or Many? – Consolidation vs Substitution** | Weighs exchange-cost gravity toward one coin against fee-driven migration to cheaper substitutes. |
+| 8 | **Scaling Bitcoin – Layers vs “Many Bitcoins”** | Pits Voskuil’s forecast of parallel chains against Carvalho’s case for a single, layer-anchored Bitcoin ‘sweet spot.’ |
+| **Part III – Synthesis** |
+| 9 | **Putting It All Together – A Cohesive Bitcoin Mental Model** | Integrates the prior concepts into a practical rubric for evaluating future proposals and teaching newcomers. |
+| **Glossary** | — | Concise definitions of core terms (risk-sharing, utility threshold, sweet-spot scaling, etc.) for quick reference. |
+| **References** | — | Categorized list of all relevant links. |
 
-- **Chapter 2: What *Is* Bitcoin? – A Money Secured by Principles** – Provides a clear definition of Bitcoin in lay terms, building on Voskuil’s own definition of Bitcoin as *“the set of principles that secure a coin from the State.”* It introduces Bitcoin’s fundamental traits (fixed supply, peer-to-peer network, open permissionless access) as a **Money Taxonomy** case study: unlike fiat currency (state-issued) or commodity money (like gold), Bitcoin is a new category – **digital, decentralized, and permissionless**. The chapter draws on Voskuil’s explanation that Bitcoin’s design eliminates trusted third parties and state custodians, making it a *non-custodial digital cash by design* ([cryptoeconomics.pdf](file://file-CR8ki13Nwxn63VvJAa3QLw#:~:text=Bitcoin%20as%20a%20money3%20is,asset%20held%20by%20a%20trusted)). All key terms (blockchain, mining, private keys, etc.) are introduced gently to form a mental model of how Bitcoin works to secure value without central authority. (Draws from Voskuil’s introductory material and *Money Taxonomy* content, but reorganizes it into a simple description of Bitcoin’s purpose and system. No major challenge to Voskuil here – rather a pedagogical restatement – but it lays groundwork for later original insights like “real control.”)
-
-## **Part II: Fundamental Principles of Bitcoin’s Economics**  
-- **Chapter 3: Scarcity and Value – The Inflation Principle Revisited** – Explores Bitcoin’s fixed supply and why scarcity alone does not guarantee value. This chapter simplifies Voskuil’s **Inflation Principle** and his debunking of the “absolute scarcity” myth. It explains that Bitcoin’s 21 million cap is important, but economic value arises from **supply *and* demand dynamics**, not just a hard cap. Using Voskuil’s *Scarcity Fallacy* example (comparing Bitcoin to the Mona Lisa or other scarce items), it shows that without demand, scarcity means nothing. Conversely, as Bitcoin’s demand grows, its *effective* scarcity increases (people *hold* more tightly). Readers learn why claims like “Bitcoin’s fixed supply automatically makes it valuable” are incomplete – Bitcoin’s utility (e.g. as black market money or for settlement) must drive demand. The chapter preserves Voskuil’s substantive point that Bitcoin’s resistance to inflation is an **advantage**, but only in context of use; it reinterprets his analysis with clear examples and diagrams (e.g. illustrating supply-demand curves). (Relates to Voskuil’s discussion on scarcity and the inflation tax, clarifying it for educational purposes. No direct challenge to Voskuil, but sets a foundation for understanding Bitcoin’s monetary policy in context.)
-
-- **Chapter 4: Security Without Trust – Decentralization and the Risk‐Sharing Principle** – Describes how Bitcoin replaces trusted institutions with distributed security. Here we present Voskuil’s **Risk Sharing Principle** in plain language: *people collectively enforce Bitcoin’s rules*, rather than any single authority ([cryptoeconomics.pdf](file://file-CR8ki13Nwxn63VvJAa3QLw#:~:text=As%20shown%20in%20Risk%20Sharing,People%20may)). The mining network and full node operators are explained as the agents of this distributed security, ensuring transactions follow the consensus rules. We relate this to the classic “trusted third party” problem and show how Bitcoin achieved what previous monies couldn’t: global transactions with **nobody to trust but the system’s open rules**. This chapter also covers Voskuil’s **Permissionless Principle** – anyone can participate in validating or transacting, which is critical for security. We emphasize that decentralization is not an abstract ideal but a practical design for robustness: many independent actors make it infeasible for corruption or censorship to succeed. Voskuil’s points about people being the basis of security (not just technology) are highlighted ([cryptoeconomics.pdf](file://file-CR8ki13Nwxn63VvJAa3QLw#:~:text=data)). (Draws on multiple Voskuil chapters such as *Risk Sharing*, *Permissionless*, and *Centralization Risk*, unifying them into a coherent explanation of why Bitcoin is trust-minimized. It’s largely interpretative, reinforcing Voskuil’s ideas in a teaching-friendly way.)
-
-- **Chapter 5: Real Control – Ownership as the Power to Destroy** – Introduces John Carvalho’s original concept of **“real control,”** expanding on Voskuil’s insights into custody and ownership. This chapter is a direct contribution from Carvalho, built on the foundation laid by Voskuil’s **Custodial Risk Principle** and his critique of the “immutable claim” fallacy (the idea that mere records can stand in for actual possession). We explain *real control* as *the ability to use, alter, or irreversibly destroy an asset at will, without interference or consequence* – essentially, the highest form of ownership. In Bitcoin terms, if you hold your private keys, you have real control (you could send your bitcoin, hodl it, or even “burn” it, and no one can stop you or reverse it). The chapter contrasts this with “legal ownership” or custodial accounts: when Bitcoin is held on an exchange or by a bank IOU, you lack real control, since a custodian can deny access. This concept is used to clarify Voskuil’s point that Bitcoin is **non-custodial money** ([cryptoeconomics.pdf](file://file-CR8ki13Nwxn63VvJAa3QLw#:~:text=Bitcoin%20as%20a%20money3%20is,asset%20held%20by%20a%20trusted)) – we make it visceral by stating that *if you can’t irreversibly spend or destroy your bitcoin, you don’t truly own it*. The chapter also addresses the so-called “blockchain technology” misconception (Voskuil’s *Blockchain Fallacy*): just having a blockchain record of a claim doesn’t confer true control over an asset ([cryptoeconomics.pdf](file://file-CR8ki13Nwxn63VvJAa3QLw#:~:text=subject%20to%20its%20control%2C%20the,against%20the%20substitution%20of%20state)). By introducing *Real Control* as a guiding principle, readers learn why **self-custody** is essential and how Bitcoin empowers individuals in ways traditional assets cannot. (This chapter reinterprets and **challenges** the traditional framing of ownership. It stays true to Voskuil’s criticism of custodial models but adds Carvalho’s perspective by formally defining “real control” and making it a centerpiece concept for the book’s pedagogical narrative.)
-
-## **Part III: Dynamics of the Bitcoin Economy**  
-- **Chapter 6: The Fee Market and the Utility Threshold** – Explains how Bitcoin’s limited throughput leads to a fee market, and why this is a feature, not a bug. Using Voskuil’s **Utility Threshold Property** and **Stability Property**, the chapter shows that as more people use Bitcoin, transaction fees rise, naturally limiting low-value transactions. We walk the reader through a simple scenario: if too many people want their transactions in the next block, they bid up fees, pricing out the smallest-value transactions. This creates a *utility threshold* – below a certain value, it’s not economical to use the Bitcoin blockchain for payments. Voskuil observed that this dynamic actually stabilizes the system: high demand increases fees, which in turn suppresses some demand, preventing permanent congestion. We reinterpret this as Bitcoin’s self-regulating mechanism that prioritizes critical, high-value transactions (for example, settling large payments or channel closings in Layer-2 systems) while discouraging spam or insignificant uses on the base layer. The chapter relates this to real-world analogies (e.g. postage costs limiting what mail people send) to enhance understanding. It preserves Voskuil’s insight that **Bitcoin is perfectly non-scalable** in a linear sense – you can’t just add hardware to process infinite transactions ([cryptoeconomics.pdf](file://file-CR8ki13Nwxn63VvJAa3QLw#:~:text=is%20employed,scalable%20as%20no%20amount%20of)) – and thus a fee market is the rational outcome. Pedagogically, this prepares readers to understand why other solutions (layers or altcoins) emerged to handle smaller payments, leading into the next chapter. (Based on Voskuil’s discussion of scalability and utility thresholds, but presented in a more narrative, example-driven way. No direct challenge to his view – rather an important concept to grasp before debating scaling approaches.)
-
-- **Chapter 7: One Money or Many? – Consolidation vs. Substitution** – Investigates whether Bitcoin will reign as the one global money or share the stage with “many Bitcoins” (substitutes). This chapter draws from Voskuil’s **Consolidation Principle** (the economic pull toward a single dominant money for efficiency) and the **Substitution Principle** (the ease of switching to alternatives if costs get too high). In plain terms, we explain that there’s a strong incentive for everyone to use one primary currency (to avoid exchange fees and complexity), which in theory favors Bitcoin becoming the universal standard. However, as Chapter 6 showed, if Bitcoin’s usage costs (fees) rise, people will seek cheaper substitutes for smaller or less critical transactions. We describe what these substitutes could be: altcoins, new Bitcoin-like networks, or even fiat for micropayments. Voskuil notes that *nothing prevents the evolution of multiple similar coins* and that they can share nearly the same properties as Bitcoin. Here we reinterpret that idea accessibly: for example, if Bitcoin fees become very high, users might use Litecoin or other cryptocurrencies for coffee payments, even though those are less secure or valued. The chapter highlights Voskuil’s conclusion that there is a **tension** between consolidation and substitution – Bitcoin’s growing utility and value can actually drive some activity to other networks when it “outgrows” certain use cases ([cryptoeconomics.pdf](file://file-CR8ki13Nwxn63VvJAa3QLw#:~:text=toward%20a%20single%20money%2C%20as,However%20this%20pressure%20is%20at)). We maintain conceptual clarity by framing this not as a failure of Bitcoin, but as an expected economic outcome. This naturally sets up a critical question: *How should Bitcoin scale to serve more users – by embracing layers and efficient use of the main chain (maintaining one strong money), or by tolerating many weaker alternative networks?* (This chapter stays close to Voskuil’s analysis of monetary competition, but simplifies the language. It doesn’t so much challenge Voskuil as set the stage for Carvalho’s forthcoming rebuttal on how to approach scaling.)
-
-- **Chapter 8: Scaling Bitcoin – Layers Over “Many Bitcoins”** – Presents a direct debate between Eric Voskuil’s view on scalability and John Carvalho’s critique of the “many Bitcoins” model. First, we summarize Voskuil’s stance on scaling: Bitcoin’s base layer cannot scale in transaction count without sacrificing security (decentralization), so **layered solutions** are the proper way to increase throughput. Voskuil characterizes layering (like the Lightning Network or other off-chain mechanisms) as a *local, temporary compromise* in security, whereas increasing the block size is a *system-wide, permanent compromise*. He also implies that even if you tweaked parameters or had multiple Bitcoin-like chains, the fundamental capacity issue remains – larger blocks or parallel chains still eventually price out low-value uses. We reinforce this with his point that *stability and non-scalability exist at any block size*, meaning there’s no magic fix on the base layer. **Carvalho’s perspective is then introduced as a counterpoint**: rather than conceding that many alternative “Bitcoin-like” networks will share the load, he argues Bitcoin should **scale by maximizing economic throughput on the main chain within a *secure sweet spot***. This means finding an optimal block size and use of layers where the network remains decentralized and secure, but the capacity is used as fully as possible for meaningful economic activity. Carvalho challenges any approach that spreads transactions to *less secure networks* (whether that be altcoins or insecure side-chains) as a false scaling solution – if a network is less secure than Bitcoin, pushing activity there undermines the assurance that Bitcoin offers. In this chapter, we explain why Carvalho favors Layer-2 solutions **anchored to Bitcoin’s security** (like Lightning, which relies on main-chain enforcement) over completely separate networks. We also include his rebuttal to misinterpreting Voskuil: the goal is not to have “many Bitcoins” each handling different value tiers, but rather to use **one Bitcoin network (and its derivatives) as efficiently as possible**. This chapter uses analogies (e.g. comparing Bitcoin to a limited highway: do we build side roads or improve the main highway’s throughput?) to drive home the contrast. It clearly marks what is *reinterpretation* (Voskuil’s view that layers are necessary and multiple coins don’t really solve fundamental limits) versus *challenge* (Carvalho’s stance that Bitcoiners should resist diluting activity to other coins and instead optimize within Bitcoin’s security model). (This chapter is a crucial original contribution, directly incorporating John Carvalho’s critique. It preserves Voskuil’s insights on the trade-offs of scaling but **challenges** the notion of accepting many parallel Bitcoins. It emphasizes pedagogically that understanding scaling is not just about technology but also about making economic choices that keep Bitcoin strong and secure.)
-
-- **Chapter 9: Conclusion – A Cohesive Bitcoin Mental Model** – The final chapter ties all the concepts together into a robust mental model of Bitcoin’s economic and technical dynamics. It revisits the book’s narrative: Bitcoin emerged as *“black market money”* and remains strongest when used to preserve financial freedom (as in Chapter 1). All of Bitcoin’s principles – from fixed supply to decentralized security and real control – combine to produce a new kind of financial system. We illustrate a cohesive picture: readers should now understand **why** Bitcoin’s design is the way it is (to solve the state vs money problem), **how** its economics ensure survival and integrity (fee market, game-theoretic equilibrium, etc.), and **what** challenges and decisions lie ahead (scaling and adoption strategies). This chapter relates back to Voskuil’s original material by showing that we have preserved his fundamental principles (each principle or property finds its place in our outline) but organized them into a logical story. It also underscores Carvalho’s additions: *real control* as a normative guiding principle for users, and a clear argument for focusing on one secure Bitcoin network rather than fragmentation. In closing, “Black Market Money” encourages educators (like those in Plan B, KUDO programs) and enthusiasts to use this structured understanding to discuss Bitcoin intelligently. The tone here is optimistic yet realistic: Bitcoin’s future, if guided by sound economics and its community’s insistence on security, will continue to fulfill the promise of a censorship-resistant, globally accessible money. (Serves as a synthesis of Voskuil’s and Carvalho’s ideas, emphasizing conceptual clarity and the logical progression we built from first principles to nuanced critique. It ensures the reader comes away with both the knowledge from *Cryptoeconomics* and the original perspectives introduced in this rewrite.)  
+*Each chapter builds logically on the previous, guiding readers from first principles to contested frontiers while preserving Voskuil’s rigor and adding fresh, practice-oriented context.*
 
 ## Author’s Introduction  
 ### John Carvalho ( aka BitcoinErrorLog )  
@@ -743,3 +742,139 @@ Bitcoin is not inevitable; it is an ongoing **social contract enforced by mathem
 
 Do that, teach the next person to do the same, and the black-market money that began as a cypherpunk experiment matures into a global, censorship-resistant standard—one block at a time.
 
+### Glossary of Key Terms  
+
+| Term | Definition (as used in **Black Market Money**) |
+|------|-------------|
+| **Axiom of Resistance** | Foundational assumption that a money can, in practice, operate despite state hostility; without it Bitcoin’s security model is incoherent. |
+| **Bitcoin** | The set of cryptodynamic principles that secure a fixed-supply digital money without permission from any authority; not merely one chain or ticker. |
+| **Black-market money** | A currency designed to work where it is *not* allowed—permissionless, censorship-resistant, and non-custodial. |
+| **Block space** | The scarce commodity of bytes available in each block; miners auction it via transaction fees. |
+| **Censorship-Resistance Property** | Economic feedback in which fee premiums attract non-censoring miners until attempts at transaction filtering become unprofitable. |
+| **Centralisation Risk** | Security loss that arises when mining, validation, or custody aggregates into a few coercible hubs. |
+| **Consolidation Principle** | Market pressure toward a single dominant money to minimise exchange friction. |
+| **Custodial Risk Principle** | Any claim that depends on a third-party custodian carries default risk and is discounted by the market. |
+| **Energy Sinking** | Proof-of-work’s requirement that miners burn external resources, attaching real cost to reversal of history. |
+| **Fee market** | Continuous auction where users bid sat/vB for block space; funds both miner revenue and chain security. |
+| **Hash-power** | Aggregate SHA-256 throughput committed to mining; proportional to the cost of rewriting blocks. |
+| **Hoarding** | Holding money idle; affects price but not utility unless demand to *spend* changes. |
+| **Layer-2** | Protocols (e.g. Lightning, Fedimint) that move transactions off-chain while retaining unilateral settlement back to L1. |
+| **Mining** | Competitive process of assembling valid blocks under proof-of-work to earn subsidy + fees. |
+| **Permissionless Principle** | No gatekeeper decides who may mine, validate, or transact; openness is itself a security requirement. |
+| **Proof-of-Work (PoW)** | Probabilistic mechanism that ties each valid block to a measurable expenditure of computational energy. |
+| **Real Control** | Ownership criterion: the holder can *spend or irreversibly destroy* the asset without third-party approval. |
+| **Risk-Sharing Principle** | Security grows as more independent actors validate, mine, and self-custody—spreading attack surface. |
+| **Scalability Principle** | Transaction throughput on the base layer is *perfectly non-scalable*; larger blocks only trade security for capacity. |
+| **Seigniorage** | Profit a money issuer earns by creating new units below market value; eliminated in Bitcoin by the fixed cap. |
+| **Self-custody** | Direct control of private keys; prerequisite for real control and full participation in risk-sharing. |
+| **Stability Property** | Bitcoin remains usable because rising fees damp excess demand instead of expanding supply (contrasts with gold & fiat). |
+| **Substitution Principle** | When on-chain fees rise above a user’s utility, they migrate to cheaper substitutes (layers, alt-coins, fiat). |
+| **Sweet-spot scaling** | Carvalho’s thesis that Bitcoin should maximise *secure* throughput on one chain, with layers to absorb overflow—opposing the “many Bitcoins” view. |
+| **Utility Threshold Property** | Minimum value a transfer must have to justify current fees; rises with demand, pushing low-value uses to substitutes. |
+| **Value Proposition** | Bitcoin’s core promise: eliminate seigniorage and censorship at the cost of proof-of-work and limited block space. |
+| **“Many Bitcoins”** | Voskuil’s forecast that separate Bitcoin-like chains will carry lower-value traffic as fees price them off the main chain. |
+| **Node (full)** | Software that validates every rule from genesis, enforcing consensus and broadcasting transactions/blocks. |
+| **Confirmation depth** | Number of blocks buried atop a transaction; deeper = costlier to reverse, traded against time and fee. |
+
+*Use this glossary as a quick reference while reading; each term is unpacked in detail within the corresponding chapters.*
+
+### References
+
+---
+
+## 1.  Primary Texts  
+
+| Label | Bibliographic note | URL |
+|-------|--------------------|-----|
+| **Voskuil 2020** | Voskuil, Eric. *Cryptoeconomics: Fundamental Principles of Bitcoin*, 2nd Edition, Version 1.2.1 (PDF). | — (contained in uploaded file) |
+| **Satoshi 2008** | Nakamoto, S. “Bitcoin: A Peer-to-Peer Electronic Cash System.” | https://bitcoin.org/bitcoin.pdf |
+
+---
+
+## 2.  Economics, Money & Banking  
+
+| Source | URL |
+|--------|-----|
+| Austrian School (Wikipedia) | https://en.wikipedia.org/wiki/Austrian_School |
+| Barter | https://en.wikipedia.org/wiki/Barter |
+| Capital flight | https://en.wikipedia.org/wiki/Capital_flight |
+| Commodity | https://en.wikipedia.org/wiki/Commodity |
+| Demurrage (currency) | https://en.wikipedia.org/wiki/Demurrage_(currency) |
+| Exchange controls (FX) | https://en.wikipedia.org/wiki/Foreign_exchange_controls |
+| Gresham’s / Thiers’ Law | https://en.wikipedia.org/wiki/Gresham%27s_law#Reverse_of_Gresham's_law_(Thiers'_law) |
+| Inflation | https://en.wikipedia.org/wiki/Inflation |
+| Marginal utility | https://en.wikipedia.org/wiki/Marginal_utility |
+| Money supply & demand | https://en.m.wikipedia.org/wiki/Supply_and_demand |
+| Opportunity cost | https://en.wikipedia.org/wiki/Opportunity_cost |
+| Reserve currency | https://en.wikipedia.org/wiki/Reserve_currency |
+| Seigniorage | https://en.wikipedia.org/wiki/Seigniorage |
+| Substitute good | https://en.m.wikipedia.org/wiki/Substitute_good |
+| Thiers’ Law (reverse-Gresham) | same as Gresham/Tiers’ link above |
+
+---
+
+## 3.  Bitcoin, Mining & Cryptography  
+
+| Source | URL |
+|--------|-----|
+| Bitcoin.org “Choose your wallet” (web wallets) | https://bitcoin.org/en/wallets/web |
+| Proof-of-Stake (Wikipedia) | https://en.wikipedia.org/wiki/Proof-of-stake |
+
+---
+
+## 4.  Governance, Law & State Power  
+
+| Source | URL |
+|--------|-----|
+| Executive Order 6102 (US gold seizure) | https://en.m.wikipedia.org/wiki/Executive_Order_6102 |
+| IMF home page | https://www.imf.org |
+| Sovereignty (Wikipedia) | https://en.wikipedia.org/wiki/Sovereignty |
+
+---
+
+## 5.  Game Theory & Social Science  
+
+| Source | URL |
+|--------|-----|
+| Prisoner’s dilemma | https://en.wikipedia.org/wiki/Prisoner%27s_dilemma |
+| Metcalfe’s Law | https://en.wikipedia.org/wiki/Metcalfe%27s_law |
+
+---
+
+## 6.  Classical & Modern Writings Referenced  
+
+| Source | URL |
+|--------|-----|
+| Rothbard, M. *Man, Economy, and State* (Mises Institute) | https://mises.org/library/man-economy-and-state-power-and-market |
+| Mises, L. — Biography page | https://en.wikipedia.org/wiki/Ludwig_von_Mises |
+| Murray Rothbard (Wikipedia) | https://en.wikipedia.org/wiki/Murray_Rothbard |
+
+---
+
+## 7.  Miscellaneous Technical & Financial Links  
+
+| Source | URL |
+|--------|-----|
+| Fedwire fee table (Wikipedia) | https://en.wikipedia.org/wiki/Fedwire |
+| Fedwire quotation in outline (same page) | (see above) |
+| Standard deviation | https://en.wikipedia.org/wiki/Standard_deviation |
+| Proof-of-memory (concept overview) | https://en.wikipedia.org/wiki/Proof-of-stake#Proof_of_memory (anchor used in pdf) |
+
+---
+
+## 8.  Original Outline / Book-Specific Concepts (no external URLs)  
+
+These items came entirely from Voskuil’s *Cryptoeconomics* or John Carvalho’s additions and therefore have no separate public link:
+
+- Axiom of Resistance  
+- Risk-Sharing Principle  
+- Energy Sinking  
+- Power Regulating (Fee-driven censorship resistance)  
+- Custodial-Risk Principle  
+- Consolidation Principle  
+- Utility Threshold Property  
+- Stability Property  
+- Sweet-Spot Scaling (Carvalho)  
+- Real Control (Carvalho)
+
+---
