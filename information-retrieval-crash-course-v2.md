@@ -59,7 +59,6 @@
 ---
 
 ## Chapter 5 – Tag Signals & Recommendation
-*(formerly “Signed Tags” – signatures removed)*
 
 **Purpose** Exploit tag metadata (namespace, scope, co‑occurrence) for discovery and recommendation.
 
