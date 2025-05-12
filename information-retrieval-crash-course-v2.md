@@ -1,9 +1,5 @@
-
 # Pubky‑Centric Information Retrieval Crash‑Course  
-*Battle‑ready syllabus – revised May 2025*
-
-This version integrates feedback on accuracy, abuse‑resistance, privacy, real‑time ops, and removes the (future) idea of cryptographically signed tags.  
-Everything still builds incrementally toward a working **Pubky Search** prototype.
+*A battle‑ready syllabus*
 
 ---
 
