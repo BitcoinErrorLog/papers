@@ -1,8 +1,7 @@
 
 # Atomicity: A Bounded‑Trust Credit Routing Protocol for the Open Web
-*A public whitepaper*
 
-> **Status:** Draft for community review • **Scope:** Protocol overview, narrative motivation, and minimal technical spec
+> **Status:** Internal Draft • **Scope:** Protocol overview, narrative motivation, and minimal technical spec
 
 ---
 
