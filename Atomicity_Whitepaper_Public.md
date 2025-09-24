@@ -7,6 +7,7 @@
 
 ## Abstract
 Atomicity is a peer‑to‑peer **credit routing** protocol that enables private, scalable payments **without** a global ledger, refunds, or custodians. Rather than attempting decentralized atomic commit with hashlocks and a blockchain backstop, Atomicity adopts a **bounded‑trust** model: it never enters unsafe states. Payments proceed as short‑lived reservations and only become real obligations when the **receiver explicitly finalizes** within a brief window. Otherwise, **all reservations auto‑revert**.  
+
 This paper motivates the model, outlines the protocol, contrasts it with Lightning’s HTLC approach, and discusses economics, privacy, legal guardrails, and a path to implementation.
 
 ---
